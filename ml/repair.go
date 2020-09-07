@@ -21,6 +21,8 @@ var db *gorm.DB
 var err error
 
 func init()  {
+	// https://www.liwenzhou.com/posts/Go/gorm_crud/ GORM CRUD指南
+	// https://www.liwenzhou.com/posts/Go/gorm/  GORM 入门指南
 	fmt.Println("开始修复数据")
 
 	gorm.DefaultTableNameHandler = func(db *gorm.DB, defaultTableName string) string {
@@ -51,16 +53,25 @@ func RepairData()  {
 
 	defer db.Close()
 
+
 	//contentDistrict := TbContentDistrict{Title: "hello",Content: "content",CrawlSourceId: "123456"}
 	//db.Create(&contentDistrict)
 }
 
 func findByTitle(title string) []int  {
-	contentDistrict := ContentDistrict{}
+
+	contentDistrict := new (ContentDistrict)
 	//db.Create(&contentDistrict)
 
 	dt := db.Debug().Where("title = ?", title).First(&contentDistrict)
-	fmt.Println(dt)
+	fmt.Printf("%v",dt)
+
+
+	//db.Delete(&contentDistrict)
+	//db.Debug().Unscoped().Delete(&contentDistrict)
+	//db.Model(&contentDistrict).Where("title = ?", true).Update("name", "hello")
+
+
 	res := []int{1,2}
 	return res
 }
