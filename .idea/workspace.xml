@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9cc26b1-e258-4a97-a53b-614cddd488c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml/repair.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hBKuBPD6GBaF88z7bTxaxwYbko" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="shell" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="311" key="EnvironmentVariablesDialog" timestamp="1599481575046">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="698" y="311" key="EnvironmentVariablesDialog/0.23.1440.803@0.23.1440.803" timestamp="1599481575046" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1599484312959">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1599484312959" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1599484312958">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1599484312958" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1599484312957">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1599484312957" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1599484312958">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1599484312958" />
+    <state x="241" y="67" key="SettingsEditor" timestamp="1599481932615">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="241" y="67" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1599481932615" />
+    <state x="493" y="150" width="670" height="676" key="search.everywhere.popup" timestamp="1599483609165">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="493" y="150" width="670" height="676" key="search.everywhere.popup/0.23.1440.803@0.23.1440.803" timestamp="1599483609165" />
+  </component>
+</project>
